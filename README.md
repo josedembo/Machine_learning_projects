@@ -1,0 +1,1 @@
+# Exercitando os conhecimentos com pequenos projetos de machine learnig, testando diferentes algoritimos de machine learning
